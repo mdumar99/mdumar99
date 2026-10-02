@@ -18,7 +18,7 @@
 - 🎓 Diploma in Electrical & Electronics Engineering (Robotics & Control), Singapore Polytechnic
 -  Most recently a Project Engineer (AI and Robotics) at Nanyang Polytechnic Center for Applied AI (C4AI)— knowledge-graph retrieval, agentic AI workflows, and computer vision
 -  Background spans both ends of the stack: firmware/embedded work at Halliburton, and AI/ML in more recent research work
--  Currently open to new opportunities in AI/ML or in Firmare
+-  Currently open to new opportunities in AI/ML or in Firwmare
 
 ---
 
