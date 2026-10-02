@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Umar </h1>
-<p align="center">AI/ML Engineer | Firmware & Embedded Systems</p>
+<p align="center">Aspiring AI/ML Engineer</p>
 
 <p align="center">
   <a href="mailto:uma000r@gmail.com">
